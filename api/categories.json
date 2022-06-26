@@ -1,1 +1,1 @@
-[]
+[{"name":"cate1","path":"api/categories/cate1.json","slug":"cate1","count":1},{"name":"cate2","path":"api/categories/cate1/cate2.json","slug":"cate1/cate2","count":1}]
